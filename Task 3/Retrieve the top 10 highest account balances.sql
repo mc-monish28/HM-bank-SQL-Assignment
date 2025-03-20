@@ -1,0 +1,3 @@
+SELECT * FROM Accounts 
+ORDER BY balance DESC 
+LIMIT 10;
