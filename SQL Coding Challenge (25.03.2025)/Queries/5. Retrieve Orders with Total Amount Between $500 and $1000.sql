@@ -1,0 +1,1 @@
+SELECT * FROM orders WHERE total_amount BETWEEN 500 AND 1000;
